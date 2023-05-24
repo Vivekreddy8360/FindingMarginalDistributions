@@ -64,7 +64,7 @@ r=Cov/(sx*sy)
 r
 print("The coefficient-correlation %0.4f"%r)~
 
-
+```
 # Output : 
 ![image](https://github.com/Vivekreddy8360/FindingMarginalDistributions/assets/94525701/e77a43b3-e832-4a19-b46a-a690d61e8ec7)
 # Result :
